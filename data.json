@@ -5,8 +5,7 @@
         "stok": 12,
         "pilihan":{
             "opsi1": "Jadikan Paket",
-            "opsi2": "Tidak Jadikan Paket",
-            "hargaOpsi1": 20.000
+            "opsi2": "Tidak Jadikan Paket"
         },
         "hargaMakanan":{
             "hargaOpsi1": 68.000,
