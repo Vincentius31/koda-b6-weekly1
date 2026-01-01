@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "namaMakanan": "Iga Bakar Sapi",
+        "harga": 48.000,
+        "stok": 12,
+        "pilihan":{
+            "opsi1": "Jadikan Paket (+20.000)",
+            "opsi2": "Tidak Jadikan Paket",
+            "hargaOpsi1": 20.000
+        }
+    },
+
+    {
+        "id": 2,
+        "namaMakanan": "Iga Bakar Kambing",
+        "harga": 60.000,
+        "stok": 8,
+        "pilihan":{
+            "opsi1": "Jadikan Paket (+15.000)",
+            "opsi2": "Tidak Jadikan Paket",
+            "hargaOpsi1": 20.000
+        }
+    },
+
+    {
+        "id": 3,
+        "namaMakanan": "Sop Iga Bakar",
+        "harga": 48.000,
+        "stok": 10
+    },
+
+    {
+        "id": 4,
+        "namaMakanan": "Kresengan",
+        "harga": 48.000,
+        "stok": 50,
+        "pilihan":{
+            "opsi1": "Ayam (+0)",
+            "opsi2": "Sapi (+12.000)",
+            "opsi3": "Kambing (+18.000)",
+            "hargaOpsi2": 12.000,
+            "hargaOpsi3": 18.000
+        }
+    },
+
+    {
+        "id": 5,
+        "namaMakanan": "Nasi Goreng",
+        "harga": 48.000,
+        "stok": 90,
+        "pilihan":{
+            "opsi1": "Ayam (+0)",
+            "opsi2": "Sapi (+0)",
+            "opsi3": "Kambing (+0)",
+            "opsi4": "Iga (+12.000)",
+            "hargaOpsi4": 12.000
+        }
+    },
+
+    {
+        "id": 6,
+        "namaMakanan": "Mie Kocok",
+        "harga": 24.000,
+        "stok": 90,
+        "pilihan":{
+            "opsi1": "Polos (+0)",
+            "opsi2": "Biasa (+12.000)",
+            "opsi3": "Spesial (+24.000)",
+            "hargaOpsi2": 12.000,
+            "hargaOpsi3": 24.000
+        }
+    },
+
+    {
+        "id": 7,
+        "namaMakanan": "Tengkleng",
+        "harga": 66.000,
+        "stok": 90,
+        "pilihan":{
+            "opsi1": "Sapi (+0)",
+            "opsi2": "Kambing (+0)"
+        }
+    },
+
+    {
+        "id": 8,
+        "namaMakanan": "Nasi Putih",
+        "harga": 8.400,
+        "stok": 75
+    },
+
+    {
+        "id": 9,
+        "namaMakanan": "Kerupuk",
+        "harga": 8.400,
+        "stok": 500
+    },
+
+    {
+        "id": 10,
+        "namaMakanan": "Teh Manis",
+        "harga": 12.000,
+        "stok": 100,
+        "pilihan":{
+            "opsi1": "Manis (+0)",
+            "opsi2": "Tawar (+0)"
+        }
+    }
+
+]
