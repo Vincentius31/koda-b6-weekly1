@@ -30,8 +30,8 @@
     {
         "id": 3,
         "namaMakanan": "Sop Iga Bakar",
-        "hargaMakanan": 48.000,
-        "stok": 10
+        "stok": 10,
+        "hargaMakanan": 48.000
     },
 
     {
@@ -101,15 +101,15 @@
     {
         "id": 8,
         "namaMakanan": "Nasi Putih",
-        "harga": 8.400,
-        "stok": 75
+        "stok": 75,
+        "hargaMakanan": 8.400
     },
 
     {
         "id": 9,
         "namaMakanan": "Kerupuk",
-        "harga": 8.400,
-        "stok": 500
+        "stok": 500,
+        "hargaMakanan": 8.400
     },
 
     {
